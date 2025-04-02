@@ -2,7 +2,7 @@
 
 ### 1 **Клонирование репозитория**  
 ```sh
-git clone https://github.com/DURGONCHIK/test-task.git
+git clone https://github.com/DURGONCHIK/test-task/tree/master.git
 cd test-task
 
 
