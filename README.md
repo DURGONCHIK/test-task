@@ -2,9 +2,12 @@
 
 ### 1 **Клонирование репозитория**  
 ```sh
-git clone https://github.com/DURGONCHIK/test-task/tree/master.git
+git clone https://github.com/DURGONCHIK/test-task.git
 cd test-task
 
+затем надо переключиться на ветку мастер так как все находиться в ней
+
+git checkout master
 
 
 2. Производить запуск через докер
